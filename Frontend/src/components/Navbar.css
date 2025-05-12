@@ -1,0 +1,25 @@
+.navBar{
+  height: 10vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+h2{
+  font-size: 30px;
+}
+
+.navLinks{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 70px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
